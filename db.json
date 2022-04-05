@@ -1,0 +1,121 @@
+[
+  {
+    "day":"Saturday",
+    "time1":"09.00 AM - 10.30 AM",
+    "time2":"10.30 AM - 12.00 PM",
+    "time3":"12.00 PM - 01.30 PM",
+    "time4":"02.00 PM - 03.30 AM",
+    "time5":"03.30 PM - 05.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+    
+  },
+  
+  {
+  
+     "day":"Sunday",
+    "time1":"09.00 AM - 10.30 AM",
+    "time2":"10.30 AM - 12.00 PM",
+    "time3":"12.00 PM - 01.30 PM",
+    "time4":"02.00 PM - 03.30 AM",
+    "time5":"03.30 PM - 05.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+  },
+  {
+    
+     "day":"Monday",
+    "time1":"09.00 AM - 10.30 AM",
+    "time2":"10.30 AM - 12.00 PM",
+    "time3":"12.00 PM - 01.30 PM",
+    "time4":"02.00 PM - 03.30 AM",
+    "time5":"03.30 PM - 05.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+  },
+  {
+    
+    "day":"Tuesday",
+    "time1":"09.00 AM - 10.30 AM",
+    "time2":"10.30 AM - 12.00 PM",
+    "time3":"12.00 PM - 01.30 PM",
+    "time4":"02.00 PM - 03.30 AM",
+    "time5":"03.30 PM - 05.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+  },
+  {
+    
+    "day":"Wednesday",
+    "time1":"09.00 AM - 10.30 AM",
+    "time2":"10.30 AM - 12.00 PM",
+    "time3":"12.00 PM - 01.30 PM",
+    "time4":"02.00 PM - 03.30 AM",
+    "time5":"03.30 PM - 05.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+  },
+  
+  
+  
+  {
+  
+     "day":"Thursday",
+    "time1":"09.00 AM - 10.00 AM",
+    "time2":"10.00 AM - 11.00 AM",
+    "time3":"11.00 AM - 12.00 PM",
+    "time4":"12.00 PM - 01.00 PM",
+    "time5":"01.00 PM - 02.00 PM",
+    "sub1":"Bangla",
+    "sub2":"English",
+    "sub3":"Math",
+    "sub4":"Science",
+    "sub5":"General",
+    "room1": "101",
+    "room2": "101",
+    "room3": "101",
+    "room4": "101",
+    "room5": "101"
+  }
+  
+  ]
